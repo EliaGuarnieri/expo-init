@@ -49,7 +49,6 @@ pwsh.exe -c \"start-process pwsh -Verb runas -ArgumentList '-File C:/scripts/wsl
 
 ## Using debugger
 Open debugger before start running `npm run debugger`
-```
 
 if you get some error on debugger run `npm explain react-devtools-core` and check that all version is 4.14.
 if not:
