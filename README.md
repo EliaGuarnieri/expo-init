@@ -64,3 +64,7 @@ node_modules/react-devtools-core
     react-native@"0.70.5" from the root project
 ```
 
+## Run app
+Connect phone via USB and run `npm run dev`
+
+With terminal in focus press 'm' to open menu in Expo Go then select `Debug Remote JS` and it will automatically connect to debugger
