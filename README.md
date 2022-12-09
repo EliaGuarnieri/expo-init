@@ -17,6 +17,7 @@ change Android package URI
     },
   }
 }
+```
 
 
 Install the debugger (go to the root of the project)
