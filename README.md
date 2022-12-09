@@ -30,7 +30,8 @@ rm ./rn-debugger-windows-x64.zip
 ## If WSL
 ### symlink adb in windows to wsl
 ```bash
-sudo ln -s <path-to-adb.exe> ~/Android/sdk/platform-tools/adb
+mkdir -p ~/android/cdmline-tools/platform-tools
+sudo ln -s <path-to-adb.exe> ~/android/cmdline-tools/platform-tools/adb
 ```
 
 ### Add adb to ANDROID_HOME variable
