@@ -1,0 +1,6 @@
+.vscode
+scripts
+.eslintrc.js
+.gitignore
+README.md
+.prettierrc.js
